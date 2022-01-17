@@ -31,13 +31,13 @@ Here are some ideas to get you started:
      Skills:
    </strong>
 </h3>
-
+<!--
 <p align="center">
    
    <img src="https://mpng.subpng.com/20180508/zae/kisspng-php-computer-icons-computer-programming-installati-5af223a3eb3830.3457727815258182759635.jpg" alt="csharp" width="35" height="40" />
 
 </p>
-
+-->
 
 </p>
 
