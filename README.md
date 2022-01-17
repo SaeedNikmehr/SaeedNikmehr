@@ -36,14 +36,14 @@ Here are some ideas to get you started:
 </h3>
 <p align="center">
    
-   <img src="https://user-images.githubusercontent.com/21986853/149738500-c7b0543a-90a1-427d-b19c-b3062cb51b5b.png" alt="PHP" width="35" height="40" />
-   <img src="https://user-images.githubusercontent.com/21986853/149741539-01deace9-5894-4595-b9c8-c67617387ce9.png" alt="Laravel" width="35" height="40" />
-   <img src="https://user-images.githubusercontent.com/21986853/149742252-2854b0e2-63b1-4a4b-8482-9fc4182f1241.png" alt="CodeIgniter" width="35" height="40" />
-   <img src="https://user-images.githubusercontent.com/21986853/149740930-27023a4b-1d95-4621-ac18-09ec620dd8bf.png" alt="MySQL" width="35" height="40" />
-   <img src="https://user-images.githubusercontent.com/21986853/149740631-5187643b-e842-4573-82d9-ee177424e9e5.png" alt="NODE.JS" width="35" height="40" />
-   <img src="https://user-images.githubusercontent.com/21986853/149738764-4e422559-df2d-48cf-8e3e-38f883c75a98.png" alt="JS" width="35" height="40" />
-   <img src="https://user-images.githubusercontent.com/21986853/149741128-884dcdf4-3552-491a-8224-8bbd58a62c19.png" alt="MongoDB" width="35" height="40" />
-   <img src="https://user-images.githubusercontent.com/21986853/149741867-39829e8b-c045-430b-a48c-b14fa21fd879.png" alt="Docker" width="35" height="40" />
+   <img src="https://user-images.githubusercontent.com/21986853/149738500-c7b0543a-90a1-427d-b19c-b3062cb51b5b.png" title="PHP" alt="PHP" width="35" height="40" />
+   <img src="https://user-images.githubusercontent.com/21986853/149741539-01deace9-5894-4595-b9c8-c67617387ce9.png" title="Laravel" alt="Laravel" width="35" height="40" />
+   <img src="https://user-images.githubusercontent.com/21986853/149742252-2854b0e2-63b1-4a4b-8482-9fc4182f1241.png" title="CodeIgniter" alt="CodeIgniter" width="35" height="40" />
+   <img src="https://user-images.githubusercontent.com/21986853/149740930-27023a4b-1d95-4621-ac18-09ec620dd8bf.png" title="MySQL" alt="MySQL" width="35" height="40" />
+   <img src="https://user-images.githubusercontent.com/21986853/149740631-5187643b-e842-4573-82d9-ee177424e9e5.png" title="NODE JS" alt="NODE JS" width="35" height="40" />
+   <img src="https://user-images.githubusercontent.com/21986853/149738764-4e422559-df2d-48cf-8e3e-38f883c75a98.png" title="JS" alt="JS" width="35" height="40" />
+   <img src="https://user-images.githubusercontent.com/21986853/149741128-884dcdf4-3552-491a-8224-8bbd58a62c19.png" title="MongoDB" alt="MongoDB" width="35" height="40" />
+   <img src="https://user-images.githubusercontent.com/21986853/149741867-39829e8b-c045-430b-a48c-b14fa21fd879.png" title="Docker" alt="Docker" width="35" height="40" />
  
 
 </p>
