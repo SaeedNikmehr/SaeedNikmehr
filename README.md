@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </h3>
 
 
-![1280px-Node js_logo svg](https://user-images.githubusercontent.com/21986853/149740250-65906bd3-ce42-42e4-8199-abfa98542c85.png)
+![images](https://user-images.githubusercontent.com/21986853/149740631-5187643b-e842-4573-82d9-ee177424e9e5.png)
 
 
 
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <p align="center">
    
    <img src="https://user-images.githubusercontent.com/21986853/149738500-c7b0543a-90a1-427d-b19c-b3062cb51b5b.png" alt="csharp" width="35" height="40" />
-    <img src="https://user-images.githubusercontent.com/21986853/149740250-65906bd3-ce42-42e4-8199-abfa98542c85.png" alt="csharp" width="35" height="40" />
+   <img src="https://user-images.githubusercontent.com/21986853/149740631-5187643b-e842-4573-82d9-ee177424e9e5.png" alt="csharp" width="35" height="40" />
    <img src="https://user-images.githubusercontent.com/21986853/149738764-4e422559-df2d-48cf-8e3e-38f883c75a98.png" alt="csharp" width="35" height="40" />
 
 </p>
