@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 </p>
 
 
+
 <h3 align="center"> <strong> Skills: </strong> </h3>
 
 <p align="center">
@@ -37,7 +38,7 @@ Here are some ideas to get you started:
    <img src="https://user-images.githubusercontent.com/21986853/149738764-4e422559-df2d-48cf-8e3e-38f883c75a98.png" title="JS" alt="JS" width="35" height="40" />
    <img src="https://user-images.githubusercontent.com/21986853/149741128-884dcdf4-3552-491a-8224-8bbd58a62c19.png" title="MongoDB" alt="MongoDB" width="35" height="40" />
    <img src="https://user-images.githubusercontent.com/21986853/149741867-39829e8b-c045-430b-a48c-b14fa21fd879.png" title="Docker" alt="Docker" width="35" height="40" />
-   <img src="https://user-images.githubusercontent.com/21986853/149743456-e8b84d53-3589-4383-b605-a783ff019896.png" title="Redis" alt="Redis" width="35" height="40" />
+   <img src="https://user-images.githubusercontent.com/21986853/149743874-8a70a9bb-a8be-4693-94e8-3fd329d1ba05.png" title="Redis" alt="Redis" width="35" height="40" />
 
 </p>
 
