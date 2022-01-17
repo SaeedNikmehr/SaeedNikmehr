@@ -25,13 +25,13 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/saeednikmehr" targer="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
   <a href="mailto:hovalkafi@gmail.com?subject=Mail From GitHub Profile"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
 </p>
-
+<!--
 <h3 align="center">
    <strong>
      Skills:
    </strong>
 </h3>
-<!--
+
 <p align="center">
    
    <img src="https://mpng.subpng.com/20180508/zae/kisspng-php-computer-icons-computer-programming-installati-5af223a3eb3830.3457727815258182759635.jpg" alt="csharp" width="35" height="40" />
