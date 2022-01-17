@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 
 
 
+
 <h3 align="center">
    <strong>
      Skills:
@@ -43,7 +44,7 @@ Here are some ideas to get you started:
    <img src="https://user-images.githubusercontent.com/21986853/149738764-4e422559-df2d-48cf-8e3e-38f883c75a98.png" alt="JS" width="35" height="40" />
     <img src="https://user-images.githubusercontent.com/21986853/149740930-27023a4b-1d95-4621-ac18-09ec620dd8bf.png" alt="JS" width="35" height="40" />
     <img src="https://user-images.githubusercontent.com/21986853/149741128-884dcdf4-3552-491a-8224-8bbd58a62c19.png" alt="JS" width="35" height="40" />
- <img src="https://user-images.githubusercontent.com/21986853/149741323-dc59da09-6992-4144-95ac-73128f815a69.png" alt="JS" width="35" height="40" />
+ <img src="https://user-images.githubusercontent.com/21986853/149741539-01deace9-5894-4595-b9c8-c67617387ce9.png" alt="JS" width="35" height="40" />
 
 </p>
 
