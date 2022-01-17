@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <h3 align="center"> <strong> Skills: </strong> </h3>
 
 <p align="center">
-   <img src="https://user-images.githubusercontent.com/21986853/149744912-2004583a-4e32-442f-b1c0-d830c7455943.png" title="PHP" alt="PHP" width="35" height="40" style="margin-right=10px"/>
+   <img src="https://user-images.githubusercontent.com/21986853/149744912-2004583a-4e32-442f-b1c0-d830c7455943.png" title="PHP" alt="PHP" width="35" height="40" style="margin-right:10px"/>
    <img src="https://user-images.githubusercontent.com/21986853/149741539-01deace9-5894-4595-b9c8-c67617387ce9.png" title="Laravel" alt="Laravel" width="35" height="40" />
    <img src="https://user-images.githubusercontent.com/21986853/149742252-2854b0e2-63b1-4a4b-8482-9fc4182f1241.png" title="CodeIgniter" alt="CodeIgniter" width="35" height="40" />
    <img src="https://user-images.githubusercontent.com/21986853/149744363-135b4ce1-9d75-4bbf-9c19-37605e552182.png" title="MySQL" alt="MySQL" width="35" height="40" />
