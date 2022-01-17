@@ -1,6 +1,4 @@
 <!--
-**SaeedNikmehr/SaeedNikmehr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -12,6 +10,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
 <h1 align="center">Hi there, I'm Saeed 👋</h1>
 
@@ -27,15 +26,9 @@ Here are some ideas to get you started:
 </p>
 
 
+<h3 align="center"> <strong> Skills: </strong> </h3>
 
-
-<h3 align="center">
-   <strong>
-     Skills:
-   </strong>
-</h3>
 <p align="center">
-   
    <img src="https://user-images.githubusercontent.com/21986853/149738500-c7b0543a-90a1-427d-b19c-b3062cb51b5b.png" title="PHP" alt="PHP" width="35" height="40" />
    <img src="https://user-images.githubusercontent.com/21986853/149741539-01deace9-5894-4595-b9c8-c67617387ce9.png" title="Laravel" alt="Laravel" width="35" height="40" />
    <img src="https://user-images.githubusercontent.com/21986853/149742252-2854b0e2-63b1-4a4b-8482-9fc4182f1241.png" title="CodeIgniter" alt="CodeIgniter" width="35" height="40" />
@@ -44,12 +37,11 @@ Here are some ideas to get you started:
    <img src="https://user-images.githubusercontent.com/21986853/149738764-4e422559-df2d-48cf-8e3e-38f883c75a98.png" title="JS" alt="JS" width="35" height="40" />
    <img src="https://user-images.githubusercontent.com/21986853/149741128-884dcdf4-3552-491a-8224-8bbd58a62c19.png" title="MongoDB" alt="MongoDB" width="35" height="40" />
    <img src="https://user-images.githubusercontent.com/21986853/149741867-39829e8b-c045-430b-a48c-b14fa21fd879.png" title="Docker" alt="Docker" width="35" height="40" />
- 
+   <img src="https://user-images.githubusercontent.com/21986853/149743456-e8b84d53-3589-4383-b605-a783ff019896.png" title="Redis" alt="Redis" width="35" height="40" />
 
 </p>
 
 
-</p>
 
 - 🌱 I’m currently learning unit-testing
 - 👯 I’m looking to collaborate on open source projects
