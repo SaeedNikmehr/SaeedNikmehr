@@ -32,10 +32,9 @@ Here are some ideas to get you started:
      Skills:
    </strong>
 </h3>
-![php_PNG36](https://user-images.githubusercontent.com/21986853/149738500-c7b0543a-90a1-427d-b19c-b3062cb51b5b.png)
 <p align="center">
    
-   <img src="" alt="csharp" width="35" height="40" />
+   <img src="https://user-images.githubusercontent.com/21986853/149738500-c7b0543a-90a1-427d-b19c-b3062cb51b5b.png" alt="csharp" width="35" height="40" />
 
 </p>
 
