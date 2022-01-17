@@ -37,6 +37,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning unit-testing
 - 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about PHP - NODE JS - Clean Architecture - TDD
+- 💬 Ask me about PHP - NODE JS - Clean Architecture - Unit Test - TDD
 - ⚡ Fun fact: There are over 1 billion sheep in the world :)
 
