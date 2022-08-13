@@ -41,8 +41,8 @@ Here are some ideas to get you started:
 </p>
 
 
-- 🌱 I’m currently learning unit-testing
+- 🌱 I’m currently learning ci/cd and golang
 - 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about PHP - NODE JS - Clean Architecture - Unit Test - TDD
+- 💬 Ask me about PHP - NODE JS - Golang - Clean Architecture - Unit Test - TDD
 - ⚡ Fun fact: There are over 1 billion sheep in the world :)
 
